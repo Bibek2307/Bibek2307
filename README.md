@@ -1,6 +1,6 @@
 <!-- Pixel Banner -->
 <div align="center">
-  <img src="[https://imgur.com/gallery/animated-pixel-art-that-soothes-soul-8a66g#gBxP6oJ](https://imgur.com/gallery/i-got-some-nice-pixel-art-you-guys-byUwco6#WyhUwbQ)" alt="Pixel Art Header" width="100%" />
+  <img src="neko.gif" alt="Pixel Art Header" width="100%" />
 </div>
 
 <h1 align="center">👾 Bibek Mukherjee | Full Stack Dev & AI Explorer</h1>
