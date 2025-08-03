@@ -14,10 +14,10 @@
 ---
 
 ### 🧠 About Me
-```diff
-+ Passionate about AI, Web Dev, and Pixel Art Games!
+
+- Passionate about AI, Web Dev, and Pixel Art Games!
 - A lifelong learner who loves building things from scratch.
-! Currently exploring advanced Spring Boot & React integration.
+- Currently exploring advanced Spring Boot & React integration.
 
 🎓 Final Year B.Tech CSE Student
 
