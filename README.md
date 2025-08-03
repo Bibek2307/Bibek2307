@@ -49,7 +49,7 @@
 
 ---
 
-<div align="center" margin-left="20">
+<div align="center" margin-left="200">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+with+passion+🔥;Loving+what+I+learn+✨;Leveling+up+daily+🎯" />
 </div>
 
