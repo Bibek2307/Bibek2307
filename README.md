@@ -32,9 +32,9 @@
 ### 🖼️ Pixel Vibes
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jQG8u7zbnj4O5q4Shw/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/3ohhwNq4LFYb8WPabC/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="150" />
+  <img src="vibe.gif" width="150" />
+  <img src="vibe2.gif" width="150" />
+  <img src="vibe3.gif" width="150" />
 </div>
 
 ---
