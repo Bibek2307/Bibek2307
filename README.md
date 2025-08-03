@@ -16,7 +16,7 @@
 
 🎓 Final Year B.Tech CSE Student  
 🕹️ Making pixel RPGs for fun — and learning a ton while doing it  
-📄 Published in IJSREM | Working on AI-powered planetary orrery  
+📄 Published Research Paper in IJSREM   
 🌱 Currently learning: Microservices, React Animations, Spring Cloud
 
 ---
