@@ -1,6 +1,6 @@
 <!-- Pixel Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="Pixel Art Header" width="100%" />
+  <img src="[https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif](https://imgur.com/gallery/animated-pixel-art-that-soothes-soul-8a66g#gBxP6oJ)" alt="Pixel Art Header" width="100%" />
 </div>
 
 <h1 align="center">👾 Bibek Mukherjee | Full Stack Dev & AI Explorer</h1>
@@ -25,29 +25,10 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🎲 Birthday Quest](https://github.com/bibek-mukherjee/birthday-quest) | Pixel-art RPG birthday game with quests and collectibles | JS, RPG.js, Canvas |
-| [🌍 AI Planetary Orrery](https://github.com/bibek-mukherjee/ai-orrery) | Simulates custom solar systems with AI orbit prediction | Three.js, ML, Python |
-| [🧠 Deepfake Detector](https://github.com/bibek-mukherjee/deepfake-detection) | Multi-modal deepfake detection using audio & video | PyTorch, OpenCV, XAI |
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,php,mysql,java,spring,py,postgres,git,figma,linux" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibek-mukherjee&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibek-mukherjee&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,php,mysql,java,spring,py,postgres,git" />
 </div>
 
 ---
@@ -65,14 +46,8 @@
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-orange?style=for-the-badge&logo=firefox-browser" />
-  </a>
   <a href="https://linkedin.com/in/bibek-mukherjee" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bibek%20Mukherjee-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-contact.me.red?style=for-the-badge&logo=gmail" />
   </a>
 </div>
 
