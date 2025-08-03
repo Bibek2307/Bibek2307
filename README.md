@@ -32,9 +32,9 @@
 ### 🖼️ Pixel Vibes
 
 <div align="center">
-  <img src="vibe.gif" width="150" />
-  <img src="vibe2.gif" width="150" />
-  <img src="vibe3.gif" width="150" />
+  <img src="vibe.gif" width="150" height="100" />
+  <img src="vibe2.gif" width="150" height="100" />
+  <img src="vibe3.gif" width="150" height="100"/>
 </div>
 
 ---
