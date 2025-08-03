@@ -21,6 +21,6 @@
 
 🎓 Final Year B.Tech CSE Student
 
-p align="center"> <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,php,mysql,java,spring,py,postgres,git" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,php,mysql,java,spring,py,postgres,git" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bibek-mukherjee&show_icons=true&theme=tokyonight&hide_border=true" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibek-mukherjee&theme=tokyonight&hide_border=true" width="47%" /> </p>
