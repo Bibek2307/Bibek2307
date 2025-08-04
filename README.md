@@ -11,12 +11,11 @@
 ### 🧠 About Me
 
 - ✅ **Passionate about AI, Web Dev, and Pixel Art Games!**
-- A motivated college student skilled in C++ and web development, passionate about creating innovative solutions and continuously expanding technical expertise.
 - 🔨 A lifelong learner who loves building things from scratch  
 - 🚀 Currently exploring advanced Spring Boot & React integration
 
 🎓 Final Year B.Tech CSE Student  
-🕹️ Making pixel RPGs for fun — and learning a ton while doing it  
+🕹️ A motivated college student skilled in C++ and web development, passionate about creating innovative solutions and continuously expanding technical expertise. 
 📄 Published Research Paper in IJSREM   
 🌱 Currently learning: Microservices, React Animations, Spring Cloud
 
