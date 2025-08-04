@@ -10,7 +10,8 @@
 
 ### 🧠 About Me
 
-- ✅ **Passionate about AI, Web Dev, and Pixel Art Games!**  
+- ✅ **Passionate about AI, Web Dev, and Pixel Art Games!**
+- A motivated college student skilled in C++ and web development, passionate about creating innovative solutions and continuously expanding technical expertise.
 - 🔨 A lifelong learner who loves building things from scratch  
 - 🚀 Currently exploring advanced Spring Boot & React integration
 
@@ -29,20 +30,10 @@
 
 ---
 
-### 🖼️ Pixel Vibes
-
-<div align="center">
-  <img src="vibe.gif" width="150" height="100" />
-  <img src="vibe2.gif" width="150" height="100" />
-  <img src="vibe3.gif" width="150" height="100"/>
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/bibek-mukherjee" target="_blank">
+  <a href="www.linkedin.com/in/bibek-mukherjee-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bibek%20Mukherjee-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </div>
