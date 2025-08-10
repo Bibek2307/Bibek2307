@@ -15,7 +15,7 @@
 - 🚀 Currently exploring advanced Spring Boot & React integration
 
 🎓 Final Year B.Tech CSE Student  
-🕹️ A motivated college student skilled in C++ and web development, passionate about creating innovative solutions 
+🕹️ A motivated college student skilled in C++ and web development, passionate about creating innovative solutions   
 📄 Published Research Paper in IJSREM   
 🌱 Currently learning: Microservices, React Animations, Spring Cloud
 
