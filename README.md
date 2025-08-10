@@ -32,7 +32,7 @@
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="www.linkedin.com/in/bibek-mukherjee-" target="blank">
+  <a href="www.linkedin.com/in/bibek-mukherjee-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bibek%20Mukherjee-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </div>
