@@ -16,7 +16,7 @@
 
 🎓 Final Year B.Tech CSE Student  
 🕹️ A motivated college student skilled in C++ and web development, passionate about creating innovative solutions   
-📄 Published Research Paper in IJSREM   
+📄 Published Research Paper in IJSREM [IJSREM]([https://ijsrem.com/your-paper-link](https://ijsrem.com/download/ai-powered-question-management-in-conferences/))    
 🌱 Currently learning: Microservices, React Animations, Spring Cloud
 
 ---
